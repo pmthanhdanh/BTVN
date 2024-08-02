@@ -3,7 +3,7 @@ namespace BTVN_Buoi3 //Tạo namespace BTVN_Buoi3
 {
 	public class Slide51 //Tạo lớp Slide51
 	{
-		static void Main51() //Tạo phương thức Main
+		static void Main() //Tạo phương thức Main
 		{
 			char input_char; //Tạo biến input_char với kiểu dữ liệu char
 			Console.WriteLine("Nhap vao 1 ky tu: "); //Hiển thị ra thông báo
