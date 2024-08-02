@@ -9,7 +9,7 @@ namespace BTVN_Buoi3 //Tạo namespace BTVN_Buoi3
 			public int NamSinh; //Tạo biến NamSinh với kiểu dữ liệu Int, với phạm vi truy cập Public
             public string QueQuan; //Tạo biến QueQuan với kiểu dữ liệu String, với phạm vi truy cập Public
         }
-		static void MainLop() //Tạo phương thức Main để chạy chương trình
+		static void Main() //Tạo phương thức Main để chạy chương trình
 		{
 			ThongTin P1 = new ThongTin(); //Tạo biến P1 với kiểu dữ liệu ThongTin và gán cho nó 1 đối tượng mới được khởi tạo từ kiểu ThongTin
 			P1.HoTen = "Do Huy Viet Hung"; //Gán giá trị cho thuộc tính HoTen của P1
