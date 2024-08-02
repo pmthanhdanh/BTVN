@@ -5,7 +5,7 @@ namespace BTVN_Buoi3 //Tạo namespace BTVN_Buoi3
 {
 	public class Slide56 //Tạo lớp Slide56
 	{
-		static void Main56() //Tạo phương thức Main
+		static void Main() //Tạo phương thức Main
 		{
 			int x, y, z; //Tạo 3 biến X, Y, Z với kiểu dữ liệu INT
 
