@@ -3,7 +3,7 @@ namespace BTVN_Buoi3 //Tạo namespace BTVN_Buoi3
 {
 	public class Slide49 //Tạo lớp Slide49
 	{
-		static void Main49() //Tạo phương thức Main
+		static void Main() //Tạo phương thức Main
         {   /*
             - Dòng đầu tiên chứa tiêu đề các cột
             - Các dòng còn lại chứa các thông số
